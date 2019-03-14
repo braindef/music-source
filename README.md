@@ -3,7 +3,7 @@ Source of my Ableton Music Stuff
 
 
 requires:
- 1. Ableton 10 (700.--)
+ 1. Ableton 10 [700.--]
  2. Dune3 (https://www.synapse-audio.com/dune3.html)  [190.--]
  3. Tone 2 Elektra 2 (https://www.tone2.com/electra2.html) [100.--]
  4. Steinberg Absoulte Collection 1 (https://new.steinberg.net/de/absolute/) [600.--]
@@ -14,5 +14,5 @@ requires:
  6. some Powerful Laptop like the Asus GL703GE with Intel 6-Core i7 [1500.--]
 
 ![https://github.com/braindef/music-source/blob/master/equipment.jpg](https://github.com/braindef/music-source/blob/master/equipment.jpg)
-# music-source2
-# music-source
+
+Finished Tracks are on my Soundcloud Account: https://soundcloud.com/landev
